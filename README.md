@@ -9,3 +9,4 @@
 1. python train.py #训练数据，生成模型
 2. python test.py #测试效果
 ```
+![image_classification](https://github.com/zpengc/image-classification/blob/e6417e6233169e1d9748161d487387a1805793fe/images%20for%20readme.png)
