@@ -1,0 +1,4 @@
+numpy~=1.20.1
+opencv-python~=4.5.1.48
+tensorflow-gpu~=2.2.0
+matplotlib~=3.3.2
